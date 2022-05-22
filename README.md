@@ -4,6 +4,7 @@ My name is Vladislav. I'm frontend developer.
 🔭 I’m currently working on commercial startup project (online store).
 
 My skills: HTML5, CSS3, SASS, JavaScript, React, Redux, Next, Typescript, Node, Express, Git, Webpack, Socket.IO
+
 English language: Intermediate.
 
 - 🌱 I’m currently learning Next, Socket.IO and Phaser.
